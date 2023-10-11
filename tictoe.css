@@ -1,0 +1,40 @@
+body {
+    background-color: #02c39a;
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+    font-family: 'Indie Flower', cursive;
+    font-size: 18px;
+}
+
+.title {
+    font-size: 36px;
+    margin: 0;
+}
+
+.game-container {
+    display: inline-block;
+    background: #f7f7f7;
+    padding: 20px;
+    border: 5px solid #000;
+    border-radius: 10px;
+    text-align: center;
+}
+
+table {
+    margin: 0 auto;
+}
+
+.cell {
+    width: 80px;
+    height: 80px;
+    border: 5px solid #000;
+    background: #FFFFFF;
+    font-size: 46pt;
+    font-weight: bold;
+    text-align: center;
+}
+
+.cell:hover {
+    background: #C2DBFC;
+}
